@@ -60,18 +60,9 @@ sleep 3
 	wget https://pastebin.com/raw/6XPm3Ra1 -O /bin/mudardata
 	dos2unix /bin/mudardata
 	chmod +x /bin/mudardata
-	wget https://pastebin.com/raw/Lx7zx1if -O /bin/mudarlimite
-	dos2unix /bin/mudarlimite
-	chmod +x /bin/mudarlimite
-	wget https://pastebin.com/raw/GFtSNbLi -O /bin/mudarsenha
-	dos2unix /bin/mudarsenha
-	chmod +x /bin/mudarsenha
 	wget https://pastebin.com/raw/iXFLGpCt -O /bin/sshlimiter
 	dos2unix /bin/sshlimiter
 	chmod +x /bin/sshlimiter
-	wget https://pastebin.com/raw/Q4ejm9nY -O /bin/apps
-	dos2unix /bin/apps
-	chmod +x /bin/apps
 	wget https://pastebin.com/raw/BtDm4m3Z -O /bin/ajuda
 	dos2unix /bin/ajuda
 	chmod +x /bin/ajuda
